@@ -1,4 +1,4 @@
-# Tableaux-de-Bord-PowerBI-SHP
+# Data Analyst Stage Master 2 - SHP
 
 # Analyse de Qualité et Suivi de Production - SHP Solid Cosmetics
 
